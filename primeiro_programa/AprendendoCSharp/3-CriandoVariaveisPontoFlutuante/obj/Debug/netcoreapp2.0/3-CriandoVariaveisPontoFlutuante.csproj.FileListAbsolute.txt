@@ -1,0 +1,11 @@
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp2.0\3-CriandoVariaveisPontoFlutuante.deps.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp2.0\3-CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp2.0\3-CriandoVariaveisPontoFlutuante.runtimeconfig.dev.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp2.0\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\netcoreapp2.0\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp2.0\3-CriandoVariaveisPontoFlutuante.csprojAssemblyReference.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp2.0\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp2.0\3-CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp2.0\3-CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp2.0\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\netcoreapp2.0\3-CriandoVariaveisPontoFlutuante.pdb
