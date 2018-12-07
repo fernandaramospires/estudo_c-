@@ -1,0 +1,10 @@
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\netcoreapp2.0\2-CriandoVariaveis.deps.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\netcoreapp2.0\2-CriandoVariaveis.runtimeconfig.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\netcoreapp2.0\2-CriandoVariaveis.runtimeconfig.dev.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\netcoreapp2.0\2-CriandoVariaveis.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\netcoreapp2.0\2-CriandoVariaveis.pdb
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\netcoreapp2.0\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\netcoreapp2.0\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\netcoreapp2.0\2-CriandoVariaveis.AssemblyInfo.cs
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\netcoreapp2.0\2-CriandoVariaveis.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\netcoreapp2.0\2-CriandoVariaveis.pdb
