@@ -1,0 +1,10 @@
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp2.0\4-ConversoesEOutrosTiposNumericos.deps.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp2.0\4-ConversoesEOutrosTiposNumericos.runtimeconfig.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp2.0\4-ConversoesEOutrosTiposNumericos.runtimeconfig.dev.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp2.0\4-ConversoesEOutrosTiposNumericos.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp2.0\4-ConversoesEOutrosTiposNumericos.pdb
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp2.0\4-ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp2.0\4-ConversoesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp2.0\4-ConversoesEOutrosTiposNumericos.AssemblyInfo.cs
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp2.0\4-ConversoesEOutrosTiposNumericos.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp2.0\4-ConversoesEOutrosTiposNumericos.pdb
