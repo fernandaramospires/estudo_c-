@@ -1,0 +1,10 @@
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp2.0\6-AtribuicoesDeVariaveis.deps.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp2.0\6-AtribuicoesDeVariaveis.runtimeconfig.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp2.0\6-AtribuicoesDeVariaveis.runtimeconfig.dev.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp2.0\6-AtribuicoesDeVariaveis.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp2.0\6-AtribuicoesDeVariaveis.pdb
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp2.0\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp2.0\6-AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp2.0\6-AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp2.0\6-AtribuicoesDeVariaveis.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp2.0\6-AtribuicoesDeVariaveis.pdb
