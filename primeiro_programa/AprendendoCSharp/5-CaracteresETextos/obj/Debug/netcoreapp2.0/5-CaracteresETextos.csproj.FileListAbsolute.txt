@@ -1,0 +1,10 @@
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\5-CaracteresETextos\bin\Debug\netcoreapp2.0\5-CaracteresETextos.deps.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\5-CaracteresETextos\bin\Debug\netcoreapp2.0\5-CaracteresETextos.runtimeconfig.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\5-CaracteresETextos\bin\Debug\netcoreapp2.0\5-CaracteresETextos.runtimeconfig.dev.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\5-CaracteresETextos\bin\Debug\netcoreapp2.0\5-CaracteresETextos.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\5-CaracteresETextos\bin\Debug\netcoreapp2.0\5-CaracteresETextos.pdb
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp2.0\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp2.0\5-CaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp2.0\5-CaracteresETextos.AssemblyInfo.cs
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp2.0\5-CaracteresETextos.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\5-CaracteresETextos\obj\Debug\netcoreapp2.0\5-CaracteresETextos.pdb
