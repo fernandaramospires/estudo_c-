@@ -1,0 +1,11 @@
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P14-LacoRepeticaoFor\bin\Debug\netcoreapp2.0\P14-LacoRepeticaoFor.deps.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P14-LacoRepeticaoFor\bin\Debug\netcoreapp2.0\P14-LacoRepeticaoFor.runtimeconfig.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P14-LacoRepeticaoFor\bin\Debug\netcoreapp2.0\P14-LacoRepeticaoFor.runtimeconfig.dev.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P14-LacoRepeticaoFor\bin\Debug\netcoreapp2.0\P14-LacoRepeticaoFor.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P14-LacoRepeticaoFor\bin\Debug\netcoreapp2.0\P14-LacoRepeticaoFor.pdb
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P14-LacoRepeticaoFor\obj\Debug\netcoreapp2.0\P14-LacoRepeticaoFor.csprojAssemblyReference.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P14-LacoRepeticaoFor\obj\Debug\netcoreapp2.0\P14-LacoRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P14-LacoRepeticaoFor\obj\Debug\netcoreapp2.0\P14-LacoRepeticaoFor.AssemblyInfoInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P14-LacoRepeticaoFor\obj\Debug\netcoreapp2.0\P14-LacoRepeticaoFor.AssemblyInfo.cs
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P14-LacoRepeticaoFor\obj\Debug\netcoreapp2.0\P14-LacoRepeticaoFor.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P14-LacoRepeticaoFor\obj\Debug\netcoreapp2.0\P14-LacoRepeticaoFor.pdb
