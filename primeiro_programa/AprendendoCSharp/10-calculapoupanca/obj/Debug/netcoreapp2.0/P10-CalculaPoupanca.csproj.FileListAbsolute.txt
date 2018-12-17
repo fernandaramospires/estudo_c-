@@ -1,0 +1,10 @@
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\10-calculapoupanca\bin\Debug\netcoreapp2.0\P10-CalculaPoupanca.deps.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\10-calculapoupanca\bin\Debug\netcoreapp2.0\P10-CalculaPoupanca.runtimeconfig.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\10-calculapoupanca\bin\Debug\netcoreapp2.0\P10-CalculaPoupanca.runtimeconfig.dev.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\10-calculapoupanca\bin\Debug\netcoreapp2.0\P10-CalculaPoupanca.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\10-calculapoupanca\bin\Debug\netcoreapp2.0\P10-CalculaPoupanca.pdb
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\10-calculapoupanca\obj\Debug\netcoreapp2.0\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\10-calculapoupanca\obj\Debug\netcoreapp2.0\P10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\10-calculapoupanca\obj\Debug\netcoreapp2.0\P10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\10-calculapoupanca\obj\Debug\netcoreapp2.0\P10-CalculaPoupanca.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\10-calculapoupanca\obj\Debug\netcoreapp2.0\P10-CalculaPoupanca.pdb
