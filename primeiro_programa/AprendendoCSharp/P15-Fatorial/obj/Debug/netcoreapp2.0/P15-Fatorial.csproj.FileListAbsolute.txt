@@ -1,0 +1,10 @@
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P15-Fatorial\bin\Debug\netcoreapp2.0\P15-Fatorial.deps.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P15-Fatorial\bin\Debug\netcoreapp2.0\P15-Fatorial.runtimeconfig.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P15-Fatorial\bin\Debug\netcoreapp2.0\P15-Fatorial.runtimeconfig.dev.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P15-Fatorial\bin\Debug\netcoreapp2.0\P15-Fatorial.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P15-Fatorial\bin\Debug\netcoreapp2.0\P15-Fatorial.pdb
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P15-Fatorial\obj\Debug\netcoreapp2.0\P15-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P15-Fatorial\obj\Debug\netcoreapp2.0\P15-Fatorial.AssemblyInfoInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P15-Fatorial\obj\Debug\netcoreapp2.0\P15-Fatorial.AssemblyInfo.cs
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P15-Fatorial\obj\Debug\netcoreapp2.0\P15-Fatorial.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\primeiro_programa\AprendendoCSharp\P15-Fatorial\obj\Debug\netcoreapp2.0\P15-Fatorial.pdb
