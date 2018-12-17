@@ -17,8 +17,14 @@ namespace _3_CriandoVariaveisPontoFlutuante
             double idade;
 
             idade = 15.0 / 2.0;
-
             Console.WriteLine(idade);
+
+            idade = 5 / 3;
+            Console.WriteLine("5 /3 = " + idade);
+
+            idade = 5.0 / 3;
+            Console.WriteLine("5 /3 = " + idade);
+
 
             Console.WriteLine("A execução terminou. Tecle enter para sair...");
 

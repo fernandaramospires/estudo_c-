@@ -16,10 +16,10 @@ namespace _9_Escopo
             {
                 mensagemAdicional = "João está acompanhado";
             }
-            else           
+            else
+            {
                 mensagemAdicional = "João não está acompanhado";
-
-            
+            } 
 
             if (idadeJoao >= 18 || acompanhado == true)
             {
