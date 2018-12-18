@@ -12,8 +12,8 @@ namespace _04_ByteBank
             contaDoBruno.Titular = "Bruno";
             Console.WriteLine("Antes do saque, o saldo é de R$ " + contaDoBruno.Saldo);
 
-            bool resultado = contaDoBruno.Sacar(50);
-            Console.WriteLine(resultado);
+            bool resultadoSaque = contaDoBruno.Sacar(50);
+            Console.WriteLine(resultadoSaque);
 
             Console.WriteLine("Depois do saque, o saldo é de R$" + contaDoBruno.Saldo);
 
