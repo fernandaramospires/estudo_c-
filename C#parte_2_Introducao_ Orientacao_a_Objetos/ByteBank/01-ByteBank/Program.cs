@@ -6,7 +6,24 @@ namespace _01_ByteBank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ContaCorrente contaDaFernanda = new ContaCorrente();
+
+            contaDaFernanda.Titular = "Fernanda";
+            contaDaFernanda.Agencia = 863;
+            contaDaFernanda.Numero  = 863125;
+            contaDaFernanda.Saldo   = 100;
+
+            Console.WriteLine(contaDaFernanda.Titular);
+            Console.WriteLine("Agencia: " + contaDaFernanda.Agencia);
+            Console.WriteLine("Numero: " + contaDaFernanda.Numero);
+            Console.WriteLine("Saldo: " + contaDaFernanda.Saldo);
+
+            contaDaFernanda.Saldo +=  + 200;
+
+            Console.WriteLine("Saldo: " + contaDaFernanda.Saldo);
+
+            Console.ReadLine();
+
         }
     }
 }
