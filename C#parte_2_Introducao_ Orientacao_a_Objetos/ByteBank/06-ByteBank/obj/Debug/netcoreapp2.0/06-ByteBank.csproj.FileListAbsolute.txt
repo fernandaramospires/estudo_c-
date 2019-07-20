@@ -1,0 +1,11 @@
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\C#parte_2_Introducao_ Orientacao_a_Objetos\ByteBank\06-ByteBank\bin\Debug\netcoreapp2.0\06-ByteBank.deps.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\C#parte_2_Introducao_ Orientacao_a_Objetos\ByteBank\06-ByteBank\bin\Debug\netcoreapp2.0\06-ByteBank.runtimeconfig.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\C#parte_2_Introducao_ Orientacao_a_Objetos\ByteBank\06-ByteBank\bin\Debug\netcoreapp2.0\06-ByteBank.runtimeconfig.dev.json
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\C#parte_2_Introducao_ Orientacao_a_Objetos\ByteBank\06-ByteBank\bin\Debug\netcoreapp2.0\06-ByteBank.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\C#parte_2_Introducao_ Orientacao_a_Objetos\ByteBank\06-ByteBank\bin\Debug\netcoreapp2.0\06-ByteBank.pdb
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\C#parte_2_Introducao_ Orientacao_a_Objetos\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.0\06-ByteBank.csprojAssemblyReference.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\C#parte_2_Introducao_ Orientacao_a_Objetos\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.0\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\C#parte_2_Introducao_ Orientacao_a_Objetos\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.0\06-ByteBank.AssemblyInfoInputs.cache
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\C#parte_2_Introducao_ Orientacao_a_Objetos\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.0\06-ByteBank.AssemblyInfo.cs
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\C#parte_2_Introducao_ Orientacao_a_Objetos\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.0\06-ByteBank.dll
+C:\Users\fpire\OneDrive\Documentos\Estudos\Alura\estudo_c#\C#parte_2_Introducao_ Orientacao_a_Objetos\ByteBank\06-ByteBank\obj\Debug\netcoreapp2.0\06-ByteBank.pdb
